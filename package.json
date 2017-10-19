@@ -1,0 +1,7 @@
+{
+  "name": "DevFestNantes-2017-Alexa-Demo",
+  "version": "1.0.0",
+  "dependencies": {
+    "alexa-sdk": "^1.0.10"
+  }
+}
